@@ -1,0 +1,10 @@
+{
+    "name": "Dream_Team_Modpack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/wbucher3",
+    "description": "Risk of Rain 2 Modpack for the Dream Team",
+    "dependencies": [
+        "Goorakh-PizzaClientLagFix-1.2.0",
+		"Moffein-FlurryFix-1.0.1"
+    ]
+}
