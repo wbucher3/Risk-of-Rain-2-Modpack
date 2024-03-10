@@ -10,3 +10,7 @@
 - Added TooManyFriends
 - Added ItemStats
 - Added ActuallyFaster
+
+# 1.3.0
+- Added Mandr
+- Changed icon.png
