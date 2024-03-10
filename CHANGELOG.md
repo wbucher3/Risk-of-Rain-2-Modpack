@@ -14,3 +14,6 @@
 # 1.3.0
 - Added Mandr
 - Changed icon.png
+
+# 1.3.1
+- Added info to README.md about Shrine of Dio configuration.
