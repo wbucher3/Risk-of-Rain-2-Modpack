@@ -17,3 +17,6 @@
 
 # 1.3.1
 - Added info to README.md about Shrine of Dio configuration.
+
+# 1.3.2
+- README.md styling was messed up :/

@@ -13,8 +13,8 @@ We also like to change around how some of these mods work. After installing the 
 
 Under the path, `BepInEx\config\com.MagnusMagnuson.ShrineOfDio.cfg`, use the following settings.
 
-UseBalancedMode -> false
-ResurrectionCost  -> 25
-AllowDuringTeleporterCharge -> true
-AllowHacking -> true
+- UseBalancedMode -> false
+- ResurrectionCost  -> 25
+- AllowDuringTeleporterCharge -> true
+- AllowHacking -> true
 
