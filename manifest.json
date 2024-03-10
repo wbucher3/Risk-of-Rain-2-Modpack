@@ -1,10 +1,22 @@
 {
     "name": "Dream_Team_Modpack",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/wbucher3",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/wbucher3/Risk-of-Rain-2-Modpack",
     "description": "Risk of Rain 2 Modpack for the Dream Team",
     "dependencies": [
         "Goorakh-PizzaClientLagFix-1.2.0",
-		"Moffein-FlurryFix-1.0.1"
+		"Goorakh-NoAllyAttackBlock-1.0.1",
+		"Goorakh-AttackDirectionFix-1.1.1",
+		"Goorakh-AudioOverlapFix-1.2.0",
+		"Moffein-FlurryFix-1.0.1",
+		"Moffein-EviscerateFix-1.0.1",
+		"Nuxlar-FixREXCrash-1.0.1",
+		"6thmoon-UnlockMomentum-0.1.6",
+		
+		"TeamNinjaDSM-JPs_AV_Effect_Options-2.1.0",
+		"Rune580-Risk_Of_Options-2.7.1",
+		"Bubbet-SkipIntro-1.0.0",
+		"mwxmmy-ShrineOfDio-1.6.2"
+		
     ]
 }
