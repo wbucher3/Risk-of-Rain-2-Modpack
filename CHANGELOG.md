@@ -20,3 +20,6 @@
 
 # 1.3.2
 - README.md styling was messed up :/
+
+# 1.4.0 
+- Mod list overhaul after DLC 2. Updated versions and removed deprecated mods. 
